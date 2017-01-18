@@ -1,0 +1,20 @@
+{
+  "name": "giph_bot",
+  "version": "1.0.0",
+  "description": "A small project to try out a Twitter bot with Giphy integration.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "giphy"
+  ],
+  "author": "Brooke Bullek",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
